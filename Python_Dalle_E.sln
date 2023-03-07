@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Dalle_E", "Python_Dalle_E.pyproj", "{64417C8A-FE62-48CF-B243-0E0F42D587DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64417C8A-FE62-48CF-B243-0E0F42D587DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64417C8A-FE62-48CF-B243-0E0F42D587DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B94FA9B-94F6-42D1-928B-D4C05ADD125D}
+	EndGlobalSection
+EndGlobal
